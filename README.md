@@ -60,7 +60,8 @@ This concept can be applied to **interactive marketing**, **networking**, or **p
 Here are some visuals to demonstrate the concept:
 
 ### Before Running the Project
-![Before Running](![WhatsApp Image 2024-09-26 at 19 19 49_192c839b](https://github.com/user-attachments/assets/3807d04f-d8e4-4c55-ac24-ba166e54b19a))  
+![Before Running](![WhatsApp Image 2024-09-26 at 19 19 49_192c839b](https://github.com/user-attachments/assets/41e0c6db-fd02-458c-9b08-d93e55cf6f68))  
+
 *The business card before detection. No augmented content is displayed.*
 
 ### After Running the Project
