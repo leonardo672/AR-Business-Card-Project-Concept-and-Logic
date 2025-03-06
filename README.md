@@ -66,7 +66,8 @@ Here are some visuals to demonstrate the concept:
 *The business card before detection. No augmented content is displayed.*
 
 ### After Running the Project
-![After Running](Screenshots/after_run.png)  
+![Screenshot (918)](https://github.com/user-attachments/assets/5712a126-11d6-4b49-b189-5d85004d6014)
+
 *The augmented content (e.g., a 3D logo or interactive element) displayed on top of the business card in AR space.*
 
 ---
